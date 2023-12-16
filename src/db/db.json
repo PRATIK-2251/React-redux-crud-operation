@@ -1,0 +1,16 @@
+{
+  "details": [
+    {
+      "name": "Vaibhav",
+      "email": "vaibhav@gmail.com",
+      "phone": "853433",
+      "id": 2
+    },
+    {
+      "name": "Kiran",
+      "email": "kiran@gmail.com",
+      "phone": "89454544544",
+      "id": 3
+    }
+  ]
+}
